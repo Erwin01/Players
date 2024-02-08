@@ -1,0 +1,70 @@
+C:\Users\ERWIN\Desktop\MIGRACION 1CERO1SOFT\1CERO1 SOFTWARE\PROFE ZULU\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\ERWIN\Desktop\MIGRACION 1CERO1SOFT\1CERO1 SOFTWARE\PROFE ZULU\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ERWIN\Desktop\MIGRACION 1CERO1SOFT\1CERO1 SOFTWARE\PROFE ZULU\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ERWIN\Desktop\MIGRACION 1CERO1SOFT\1CERO1 SOFTWARE\PROFE ZULU\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ERWIN\Desktop\MIGRACION 1CERO1SOFT\1CERO1 SOFTWARE\PROFE ZULU\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ERWIN\Desktop\MIGRACION 1CERO1SOFT\1CERO1 SOFTWARE\PROFE ZULU\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ERWIN\Desktop\MIGRACION 1CERO1SOFT\1CERO1 SOFTWARE\PROFE ZULU\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ERWIN\Desktop\MIGRACION 1CERO1SOFT\1CERO1 SOFTWARE\PROFE ZULU\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ERWIN\Desktop\MIGRACION 1CERO1SOFT\1CERO1 SOFTWARE\PROFE ZULU\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ERWIN\Desktop\MIGRACION 1CERO1SOFT\1CERO1 SOFTWARE\PROFE ZULU\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\ERWIN\Desktop\MIGRACION 1CERO1SOFT\1CERO1 SOFTWARE\PROFE ZULU\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\ERWIN\Desktop\MIGRACION 1CERO1SOFT\1CERO1 SOFTWARE\PROFE ZULU\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ERWIN\Desktop\MIGRACION 1CERO1SOFT\1CERO1 SOFTWARE\PROFE ZULU\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\ERWIN\Desktop\MIGRACION 1CERO1SOFT\1CERO1 SOFTWARE\PROFE ZULU\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\ERWIN\Desktop\MIGRACION 1CERO1SOFT\1CERO1 SOFTWARE\PROFE ZULU\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\ERWIN\Desktop\MIGRACION 1CERO1SOFT\1CERO1 SOFTWARE\PROFE ZULU\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\ERWIN\Desktop\MIGRACION 1CERO1SOFT\1CERO1 SOFTWARE\PROFE ZULU\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\ERWIN\Desktop\MIGRACION 1CERO1SOFT\1CERO1 SOFTWARE\PROFE ZULU\WebApplication1\WebApplication1\obj\Debug\CRUDAngularJS.csprojResolveAssemblyReference.cache
+C:\Users\ERWIN\Documents\Visual Studio 2015\Projects\PROYECTOS ANGULARJS\CRUD-ANGULARJS\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\ERWIN\Documents\Visual Studio 2015\Projects\PROYECTOS ANGULARJS\CRUD-ANGULARJS\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ERWIN\Documents\Visual Studio 2015\Projects\PROYECTOS ANGULARJS\CRUD-ANGULARJS\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ERWIN\Documents\Visual Studio 2015\Projects\PROYECTOS ANGULARJS\CRUD-ANGULARJS\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ERWIN\Documents\Visual Studio 2015\Projects\PROYECTOS ANGULARJS\CRUD-ANGULARJS\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ERWIN\Documents\Visual Studio 2015\Projects\PROYECTOS ANGULARJS\CRUD-ANGULARJS\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ERWIN\Documents\Visual Studio 2015\Projects\PROYECTOS ANGULARJS\CRUD-ANGULARJS\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ERWIN\Documents\Visual Studio 2015\Projects\PROYECTOS ANGULARJS\CRUD-ANGULARJS\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ERWIN\Documents\Visual Studio 2015\Projects\PROYECTOS ANGULARJS\CRUD-ANGULARJS\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ERWIN\Documents\Visual Studio 2015\Projects\PROYECTOS ANGULARJS\CRUD-ANGULARJS\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\ERWIN\Documents\Visual Studio 2015\Projects\PROYECTOS ANGULARJS\CRUD-ANGULARJS\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\ERWIN\Documents\Visual Studio 2015\Projects\PROYECTOS ANGULARJS\CRUD-ANGULARJS\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ERWIN\Documents\Visual Studio 2015\Projects\PROYECTOS ANGULARJS\CRUD-ANGULARJS\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\ERWIN\Documents\Visual Studio 2015\Projects\PROYECTOS ANGULARJS\CRUD-ANGULARJS\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\ERWIN\Documents\Visual Studio 2015\Projects\PROYECTOS ANGULARJS\CRUD-ANGULARJS\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\ERWIN\Documents\Visual Studio 2015\Projects\PROYECTOS ANGULARJS\CRUD-ANGULARJS\WebApplication1\WebApplication1\obj\Debug\CRUDAngularJS.csprojResolveAssemblyReference.cache
+C:\Users\ERWIN\Documents\Visual Studio 2015\Projects\PROYECTOS ANGULARJS\CRUD-ANGULARJS\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\ERWIN\Documents\Visual Studio 2015\Projects\PROYECTOS ANGULARJS\CRUD-ANGULARJS\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\ERWIN\Desktop\APLICACION HECHA EN ANGULARJS -CRUD BD-\CRUD-ANGULARJS\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\ERWIN\Desktop\APLICACION HECHA EN ANGULARJS -CRUD BD-\CRUD-ANGULARJS\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ERWIN\Desktop\APLICACION HECHA EN ANGULARJS -CRUD BD-\CRUD-ANGULARJS\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ERWIN\Desktop\APLICACION HECHA EN ANGULARJS -CRUD BD-\CRUD-ANGULARJS\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ERWIN\Desktop\APLICACION HECHA EN ANGULARJS -CRUD BD-\CRUD-ANGULARJS\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ERWIN\Desktop\APLICACION HECHA EN ANGULARJS -CRUD BD-\CRUD-ANGULARJS\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ERWIN\Desktop\APLICACION HECHA EN ANGULARJS -CRUD BD-\CRUD-ANGULARJS\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ERWIN\Desktop\APLICACION HECHA EN ANGULARJS -CRUD BD-\CRUD-ANGULARJS\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ERWIN\Desktop\APLICACION HECHA EN ANGULARJS -CRUD BD-\CRUD-ANGULARJS\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ERWIN\Desktop\APLICACION HECHA EN ANGULARJS -CRUD BD-\CRUD-ANGULARJS\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\ERWIN\Desktop\APLICACION HECHA EN ANGULARJS -CRUD BD-\CRUD-ANGULARJS\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\ERWIN\Desktop\APLICACION HECHA EN ANGULARJS -CRUD BD-\CRUD-ANGULARJS\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ERWIN\Desktop\APLICACION HECHA EN ANGULARJS -CRUD BD-\CRUD-ANGULARJS\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\ERWIN\Desktop\APLICACION HECHA EN ANGULARJS -CRUD BD-\CRUD-ANGULARJS\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\ERWIN\Desktop\APLICACION HECHA EN ANGULARJS -CRUD BD-\CRUD-ANGULARJS\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\ERWIN\Desktop\APLICACION HECHA EN ANGULARJS -CRUD BD-\CRUD-ANGULARJS\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\ERWIN\Desktop\APLICACION HECHA EN ANGULARJS -CRUD BD-\CRUD-ANGULARJS\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\ERWIN\Documents\RECOVERY USB\DOCUMENTOS\CRUD-ANGULARJS\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\ERWIN\Documents\RECOVERY USB\DOCUMENTOS\CRUD-ANGULARJS\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ERWIN\Documents\RECOVERY USB\DOCUMENTOS\CRUD-ANGULARJS\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ERWIN\Documents\RECOVERY USB\DOCUMENTOS\CRUD-ANGULARJS\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ERWIN\Documents\RECOVERY USB\DOCUMENTOS\CRUD-ANGULARJS\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ERWIN\Documents\RECOVERY USB\DOCUMENTOS\CRUD-ANGULARJS\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ERWIN\Documents\RECOVERY USB\DOCUMENTOS\CRUD-ANGULARJS\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ERWIN\Documents\RECOVERY USB\DOCUMENTOS\CRUD-ANGULARJS\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ERWIN\Documents\RECOVERY USB\DOCUMENTOS\CRUD-ANGULARJS\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ERWIN\Documents\RECOVERY USB\DOCUMENTOS\CRUD-ANGULARJS\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\ERWIN\Documents\RECOVERY USB\DOCUMENTOS\CRUD-ANGULARJS\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\ERWIN\Documents\RECOVERY USB\DOCUMENTOS\CRUD-ANGULARJS\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ERWIN\Documents\RECOVERY USB\DOCUMENTOS\CRUD-ANGULARJS\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\ERWIN\Documents\RECOVERY USB\DOCUMENTOS\CRUD-ANGULARJS\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\ERWIN\Documents\RECOVERY USB\DOCUMENTOS\CRUD-ANGULARJS\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\ERWIN\Documents\RECOVERY USB\DOCUMENTOS\CRUD-ANGULARJS\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\ERWIN\Documents\RECOVERY USB\DOCUMENTOS\CRUD-ANGULARJS\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb

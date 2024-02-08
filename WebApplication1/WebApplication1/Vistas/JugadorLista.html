@@ -1,0 +1,35 @@
+﻿<div style="text-align:center" class="mdl-layout-title">
+    <h3>LISTADO DE JUGADORES EN EL MUNDO</h3>
+    <br />
+    {{message}}
+    <br />
+    <br />
+    <a href="#/AgregarJugador" class="btn btn-success">Nuevo Jugador (+)</a>
+    <br />
+    <br />
+ 
+    <table class="table table-hover">
+        <tr>
+            <th>No LISTADO</th>
+            <th>NOMBRES/APELLIDOS</th>
+            <th>CLUB ACTUAL</th>
+            <th>EDAD</th>
+            <th>RESIDENCIA</th>
+            <th>TELÉFONO</th>
+            <th>E-MAIL/RED SOCIAL</th>
+            <!--<th>GOLES</th>-->
+        </tr>
+        <tr ng-repeat="jugador in jugadorLista">
+            <td>{{$index+1}}</td>
+            <td>{{jugador.Nombre}}</td>
+            <td>{{jugador.Club}}</td>
+            <td>{{jugador.Edad}}</td>
+            <td>{{jugador.Direccion}}</td>
+            <td>{{jugador.Telefono}}</td>
+            <td>{{jugador.CorreoElectronico}}</td>
+            <!--<td>{{jugador.Goles}}</td>-->
+            <td><a class="btn btn-warning" href="#/EditarJugador/{{jugador.JugadorID}}">Editar</a></td>
+            <td><a class="btn btn-danger" href="#/" ng-click="EliminarJugador(jugador.JugadorID, $index)">Eliminar</a></td>
+        </tr>
+    </table>
+</div>

@@ -1,0 +1,38 @@
+﻿<div style="text-align:center">
+    <h3>EDITAR JUGADOR</h3>
+    {{message}}
+    <form name="ActualizarJugadorForm" ng-submit="ActualizarJugador();" class="form-group-sm">
+        <div class="form-group">
+            <label for="jugador.Nombre">Nombre</label>
+            <input type="text" class="form-control" ng-model="jugador.Nombre" required />
+        </div>
+        <div class="form-group">
+            <label for="jugador.Club">Club</label>
+            <input type="text" class="form-control" ng-model="jugador.Club" required />
+        </div>
+        <div class="form-group">
+            <label for="jugador.Edad">Edad</label>
+            <input type="text" class="form-control" ng-model="jugador.Edad" required />
+        </div>
+        <div class="form-group">
+            <label for="jugador.Direccion">Dirección</label>
+            <input type="text" class="form-control" ng-model="jugador.Direccion" required />
+        </div>
+        <div class="form-group">
+            <label for="jugador.Telefono">Telefono</label>
+            <input type="text" class="form-control" ng-model="jugador.Telefono" required />
+        </div>
+        <!--<div class="form-group">
+            <label for="jugador.Goles">Goles</label>
+            <input type="text" class="form-control" ng-model="jugador.Goles" required />
+        </div>-->
+        <div class="form-group">
+            <label for="jugador.CorreoElectronico">E-Mail</label>
+            <input type="text" class="form-control" ng-model="jugador.CorreoElectronico" required />
+        </div>
+        <div class="form-group">
+            <input type="submit" class="btn btn-success" value="Actualizar" ng-disabled="ActualizarForm.$invalid" />
+        </div>
+    </form>
+    <a href="#/" class="btn btn-info">Volver a Inicio</a>
+</div>
